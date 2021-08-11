@@ -1,0 +1,35 @@
+D:\texnologit\2019_2020\csharp\myserver\myserver\obj\Debug\myserver.csprojAssemblyReference.cache
+D:\texnologit\2019_2020\csharp\myserver\myserver\obj\Debug\myserver.csproj.CoreCompileInputs.cache
+D:\texnologit\2019_2020\csharp\myserver\myserver\bin\Debug\myserver.exe.config
+D:\texnologit\2019_2020\csharp\myserver\myserver\bin\Debug\myserver.exe
+D:\texnologit\2019_2020\csharp\myserver\myserver\bin\Debug\myserver.pdb
+D:\texnologit\2019_2020\csharp\myserver\myserver\obj\Debug\myserver.exe
+D:\texnologit\2019_2020\csharp\myserver\myserver\obj\Debug\myserver.pdb
+D:\texnologit\2019_2020\tikshoret\myserver\myserver\myserver\bin\Debug\myserver.exe.config
+D:\texnologit\2019_2020\tikshoret\myserver\myserver\myserver\bin\Debug\myserver.exe
+D:\texnologit\2019_2020\tikshoret\myserver\myserver\myserver\bin\Debug\myserver.pdb
+D:\texnologit\2019_2020\tikshoret\myserver\myserver\myserver\obj\Debug\myserver.csprojAssemblyReference.cache
+D:\texnologit\2019_2020\tikshoret\myserver\myserver\myserver\obj\Debug\myserver.csproj.CoreCompileInputs.cache
+D:\texnologit\2019_2020\tikshoret\myserver\myserver\myserver\obj\Debug\myserver.exe
+D:\texnologit\2019_2020\tikshoret\myserver\myserver\myserver\obj\Debug\myserver.pdb
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\myserver\myserver\myserver\myserver\bin\Debug\myserver.exe.config
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\myserver\myserver\myserver\myserver\bin\Debug\myserver.exe
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\myserver\myserver\myserver\myserver\bin\Debug\myserver.pdb
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.csprojAssemblyReference.cache
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.csproj.CoreCompileInputs.cache
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.exe
+D:\Users\Ariel&Neta\Google Drive\לימודים טכנולוגית\שנה ב\סמסטר ב\תכנות תשתיות רשת\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.pdb
+d:\Users\Ariel&Neta\Desktop\עבודה מסכמת\myserver\myserver\myserver\myserver\bin\Debug\myserver.exe.config
+d:\Users\Ariel&Neta\Desktop\עבודה מסכמת\myserver\myserver\myserver\myserver\bin\Debug\myserver.exe
+d:\Users\Ariel&Neta\Desktop\עבודה מסכמת\myserver\myserver\myserver\myserver\bin\Debug\myserver.pdb
+d:\Users\Ariel&Neta\Desktop\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.exe
+d:\Users\Ariel&Neta\Desktop\עבודה מסכמת\myserver\myserver\myserver\myserver\obj\Debug\myserver.pdb
+d:\Users\Ariel&Neta\Desktop\myserver\myserver\myserver\myserver\bin\Debug\myserver.exe.config
+d:\Users\Ariel&Neta\Desktop\myserver\myserver\myserver\myserver\bin\Debug\myserver.exe
+d:\Users\Ariel&Neta\Desktop\myserver\myserver\myserver\myserver\bin\Debug\myserver.pdb
+d:\Users\Ariel&Neta\Desktop\myserver\myserver\myserver\myserver\obj\Debug\myserver.csprojAssemblyReference.cache
+d:\Users\Ariel&Neta\Desktop\myserver\myserver\myserver\myserver\obj\Debug\myserver.csproj.CoreCompileInputs.cache
+d:\Users\Ariel&Neta\Desktop\myserver\myserver\myserver\myserver\obj\Debug\myserver.exe
+d:\Users\Ariel&Neta\Desktop\myserver\myserver\myserver\myserver\obj\Debug\myserver.pdb
